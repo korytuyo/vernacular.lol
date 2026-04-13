@@ -1,10 +1,18 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   color: #1a1a2e;
   background: #fafafa;
   margin: 0;
+}
+
+.dark body,
+body:where(.dark *) {
+  color: #e2e8f0;
+  background: #0f172a;
 }
 
 html {
@@ -20,4 +28,8 @@ html {
 ::-webkit-scrollbar-thumb {
   background: #d1d5db;
   border-radius: 3px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #475569;
 }
