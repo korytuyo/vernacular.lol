@@ -2,7 +2,7 @@
 // Each language stores its text under a different field name (yoruba, pidgin, igbo, etc.)
 // This function checks all known fields and returns the first match.
 
-const nativeFields = ['yoruba', 'pidgin', 'igbo', 'hausa', 'urdu', 'twi', 'swahili', 'amharic', 'english_text', 'spanish', 'french', 'korean', 'mandarin', 'cantonese', 'haitian', 'portuguese']
+const nativeFields = ['yoruba', 'pidgin', 'igbo', 'hausa', 'urdu', 'twi', 'swahili', 'amharic', 'english_text', 'spanish', 'french', 'korean', 'mandarin', 'cantonese', 'haitian', 'portuguese', 'vietnamese']
 
 export function getNativeText(item) {
   if (!item) return ''

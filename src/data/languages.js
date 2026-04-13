@@ -46,6 +46,9 @@ import { twiScenarios } from './twi/scenarios'
 import { urduProverbs, urduProverbCategories } from './urdu/proverbs'
 import { urduLessons, urduLessonLevels } from './urdu/lessons'
 import { urduScenarios } from './urdu/scenarios'
+import { vietnameseProverbs, vietnameseProverbCategories } from './vietnamese/proverbs'
+import { vietnameseLessons, vietnameseLessonLevels } from './vietnamese/lessons'
+import { vietnameseScenarios } from './vietnamese/scenarios'
 import { proverbs, proverbCategories } from './proverbs'
 import { lessons, lessonLevels } from './lessons'
 import { scenarios } from './scenarios'
@@ -377,6 +380,28 @@ export const languages = {
     scenarios: urduScenarios,
     features: {
       toneMarks: false,
+      underdots: false,
+      proverbDriven: true,
+    },
+  },
+  vietnamese: {
+    id: 'vietnamese',
+    name: 'Vietnamese',
+    nativeName: 'Tieng Viet',
+    flag: 'VN',
+    speakers: '85M+ native speakers',
+    region: 'Vietnam, diaspora (US, Australia, France)',
+    description: 'A tonal language with six tones that can change the meaning of any syllable. Vietnamese culture runs on pho, proverbs, and deep family bonds.',
+    color: 'amber',
+    greeting: 'Xin chao',
+    tagline: 'Six tones. One thousand years of proverbs.',
+    proverbs: vietnameseProverbs,
+    proverbCategories: vietnameseProverbCategories,
+    lessons: vietnameseLessons,
+    lessonLevels: vietnameseLessonLevels,
+    scenarios: vietnameseScenarios,
+    features: {
+      toneMarks: true,
       underdots: false,
       proverbDriven: true,
     },

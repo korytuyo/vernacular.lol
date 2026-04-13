@@ -11,12 +11,12 @@ export const igboScenarios = [
     aiRole:
       "Ichie Okafor—a titled chief with deep knowledge of Igbo traditions, family lineage, and community affairs. He has a warm but dignified demeanor and expects proper respect.",
     starterPrompt:
-      "Kedu ka obi gị, mụ̀? I have not seen you in some time. Come, sit. Tell me how your family fares.",
+      "Kedụ ka obị gị, mụ̀? I have not seen you in some time. Come, sit. Tell me how your family fares.",
     keyPhrases: [
       "Dinụ mma, Ichie",
-      "Kedu ka obi gị?",
+      "Kedụ ka obị gị?",
       "Nna, biko mezie ọ",
-      "Ụmụ m nwere ezigbo mma",
+      "Ụmụ m nwere ezigbọ mma",
     ],
     lessonId: 1,
     locked: false,
@@ -33,12 +33,12 @@ export const igboScenarios = [
     aiRole:
       "Mama Adaeze—a seasoned market trader in her 50s who sells vegetables, cassava, and melon seeds. She's sharp-witted, warm, and skilled at reading customers. She expects customers to bargain respectfully.",
     starterPrompt:
-      "Nnoo, welcome! Come see. This ede is sweet-o, very fresh from the harvest. How many kilos do you want?",
+      "Nnọọ, welcome! Come see. This ede is sweet-o, very fresh from the harvest. How many kilos do you want?",
     keyPhrases: [
-      "Ego-gị kedu?",
+      "Egọ-gị kedụ?",
       "Kacha mma",
       "Ede a mma nke mma",
-      "Ụ̀la m-m, biko—kacha",
+      "Ụ̀lọ m-m, biko—kacha",
       "Daalụ, Mama",
     ],
     lessonId: 3,
@@ -56,13 +56,13 @@ export const igboScenarios = [
     aiRole:
       "Nne Ada—your mother's sister (aunt), a warm and talkative woman in her late 60s who keeps the household running. She delights in family news and cultural continuity.",
     starterPrompt:
-      "A-a-a! My dear child! Nnoo, nnoo! You have come at last. We are so happy to see you. Come embrace me and greet your cousins.",
+      "A-a-a! My dear child! Nnọọ, nnọọ! You have come at last. We are so happy to see you. Come embrace me and greet your cousins.",
     keyPhrases: [
-      "Kedu ka obi gị, Nne?",
-      "Kedu nwanne m?",
+      "Kedụ ka obị gị, Nne?",
+      "Kedụ nwanne m?",
       "Nna-nna m mma?",
       "Ụmụ m nwere kwa-kwa mma",
-      "Ofala gị ga-abụ nkọ",
+      "Ọfala gị ga-abụ nkọ",
     ],
     lessonId: 2,
     locked: true,

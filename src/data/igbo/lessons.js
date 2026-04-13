@@ -16,12 +16,12 @@ export const igboLessons = [
     ],
     vocabulary: [
       {
-        igbo: "Kedu?",
+        igbo: "Kedụ?",
         english: "How are you? (informal singular)",
         note: "Used with friends and people your age. Tone is casual and friendly.",
       },
       {
-        igbo: "Kedu ka obi gị?",
+        igbo: "Kedụ ka obị gị?",
         english: "How are you feeling? (formal, inquiring about heart/spirit)",
         note: "More formal and warm—asks about wellbeing. 'Obi' literally means 'heart' or 'spirit'.",
       },
@@ -31,7 +31,7 @@ export const igboLessons = [
         note: "Common response to greetings. Shows well-wishing. 'Mma' means 'good/well'.",
       },
       {
-        igbo: "Nnoo",
+        igbo: "Nnọọ",
         english: "Welcome (you have arrived well)",
         note: "Greeting someone who just arrived. Shows hospitality and recognition of their presence.",
       },
@@ -126,7 +126,7 @@ export const igboLessons = [
         note: "Staple carbohydrate in Igbo cooking. Foundation for dishes like fufu and cassava bread.",
       },
       {
-        igbo: "Nri",
+        igbo: "Nrị",
         english: "Food, meal",
         note: "General word for food. Also used in discussions of sustenance and nourishment.",
       },
@@ -136,7 +136,7 @@ export const igboLessons = [
         note: "Multivalent word. As food, 'mma' refers to melon seeds used in soups. Also means 'good'.",
       },
       {
-        igbo: "Ego",
+        igbo: "Egọ",
         english: "Money, price",
         note: "Essential for market transactions. Used when discussing cost, payment, or wealth.",
       },

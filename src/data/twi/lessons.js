@@ -31,24 +31,24 @@ export const twiLessons = [
         note: "Shows respect by addressing the person as 'nana' (grandfather/elder)"
       },
       {
-        twi: "Medaase",
+        twi: "Mɛdaase",
         english: "Thank you",
-        note: "Essential response word; 'medaase pa a' = thank you very much"
+        note: "Essential response word; 'mɛdaase pa a' = thank you very much"
       },
       {
-        twi: "Ɔkɔm sen?",
+        twi: "Ɔkɔm sɛn?",
         english: "How are you? (literally: 'How is the belly?')",
         note: "Common informal greeting; reflects Akan focus on physical well-being"
       },
       {
-        twi: "Obi pa",
+        twi: "Ɔbi pa",
         english: "Good person/friend",
         note: "Friendly way to address someone after introductions"
       },
       {
         twi: "Akwaaba",
         english: "Welcome",
-        note: "Said to greet visitors; response is 'Medaase' (thank you for the welcome)"
+        note: "Said to greet visitors; response is 'Mɛdaase' (thank you for the welcome)"
       }
     ],
     completed: false,
@@ -71,14 +71,14 @@ export const twiLessons = [
     ],
     vocabulary: [
       {
-        twi: "Kwame",
+        twi: "Kwamɛ",
         english: "Male born on Saturday",
         note: "Part of the Akan naming system; each day has traditional names for boys"
       },
       {
         twi: "Ama",
         english: "Female born on Saturday",
-        note: "Female counterpart to Kwame; names vary by day of birth"
+        note: "Female counterpart to Kwamɛ; names vary by day of birth"
       },
       {
         twi: "Abusua",
@@ -86,7 +86,7 @@ export const twiLessons = [
         note: "Matrilineal clan system central to Ashanti identity; defines extended family"
       },
       {
-        twi: "Mogya",
+        twi: "Mɔgyá",
         english: "Blood/family relation",
         note: "Literal term for blood relations; emphasizes biological kinship"
       },
@@ -126,17 +126,17 @@ export const twiLessons = [
         note: "Staple food in Ghana; usually eaten with soup; pronounced 'foo-foo'"
       },
       {
-        twi: "Kelewele",
+        twi: "Kɛlɛwɛlɛ",
         english: "Fried spiced plantain",
         note: "Popular street food and snack; often served with groundnut sauce"
       },
       {
-        twi: "Aduane",
+        twi: "Aduanɛ",
         english: "Food",
-        note: "General term for food or meal; 'aduane pa' = good food"
+        note: "General term for food or meal; 'aduanɛ pa' = good food"
       },
       {
-        twi: "Kakafo",
+        twi: "Kakafɔ",
         english: "How much?",
         note: "Used when asking prices; key phrase for market negotiation"
       },
@@ -146,7 +146,7 @@ export const twiLessons = [
         note: "Can also mean 'gold'; central to commerce discussions"
       },
       {
-        twi: "Kejetia",
+        twi: "Kɛjɛtia",
         english: "Largest open-air market in West Africa (Kumasi)",
         note: "Located in Kumasi; Ashanti cultural and commercial hub; name used for similar markets"
       }

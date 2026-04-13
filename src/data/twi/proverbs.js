@@ -6,7 +6,7 @@
 export const twiProverbs = [
   {
     id: 1,
-    twi: "Ɔbaa na ɔne ne kunu na ɔtena hɔ.",
+    twi: "Ɔbaa na ɔnɛ nɛ kunu na ɔtɛna hɔ.",
     english: "A woman and her husband are the ones who stay together.",
     literal: "The woman is the one with her husband who stays here.",
     context: "This proverb emphasizes the centrality of marriage and partnership in Akan society. It reflects the cultural importance of the marital bond as the foundation of family life and community. In traditional Ashanti culture, the marriage union is viewed as a sacred partnership that forms the core of social stability.",
@@ -16,7 +16,7 @@ export const twiProverbs = [
   },
   {
     id: 2,
-    twi: "Wofa a, woforo aduan.",
+    twi: "Wɔfa a, wɔfɔrɔ aduane.",
     english: "When you climb a tree, you get food.",
     literal: "If you climb it, you obtain food.",
     context: "This proverb teaches the virtue of hard work and effort. It reflects Akan farming traditions where climbing palm and coconut trees was essential labor. The message encourages taking initiative and putting in effort to achieve goals, central to Ashanti work ethic and economic values.",
@@ -26,7 +26,7 @@ export const twiProverbs = [
   },
   {
     id: 3,
-    twi: "Se woyɛ ɔbea a, wonim aboa.",
+    twi: "Sɛ wɔyɛ ɔbɛa a, wɔnim aboa.",
     english: "If you are patient, you will catch the animal.",
     literal: "If you are patient, you will trap the game.",
     context: "Patience and perseverance are highly valued in Akan philosophy. This proverb references hunting traditions while teaching that success requires waiting for the right moment. It's relevant in Ashanti decision-making and conflict resolution, where hasty actions are discouraged in favor of thoughtful timing.",
@@ -46,7 +46,7 @@ export const twiProverbs = [
   },
   {
     id: 5,
-    twi: "Mogya din sen sika.",
+    twi: "Mɔgyá dɛn sɛn sika.",
     english: "Blood is worth more than gold.",
     literal: "Blood is bigger/more valuable than gold/money.",
     context: "Family bonds and kinship are paramount in Akan society. This proverb prioritizes family relationships over material wealth. In Ashanti culture with its strong matrilineal system and emphasis on clan (abusua) identity, family loyalty supersedes economic gain. Gold, historically central to Ashanti wealth, is still secondary to blood relations.",

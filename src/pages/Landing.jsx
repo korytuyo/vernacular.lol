@@ -13,7 +13,7 @@ function HeroSection() {
         {/* Badge */}
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-green-50 dark:bg-green-900/30 border border-green-200 dark:border-green-800 text-green-700 dark:text-green-400 text-sm font-medium mb-6">
           <Sparkles className="w-4 h-4" />
-          Now teaching 16 languages across Africa, South Asia, the Americas, East Asia, and the diaspora.
+          Now teaching 17 languages across Africa, South Asia, the Americas, East Asia, and the diaspora.
         </div>
 
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white tracking-tight leading-tight mb-4">
@@ -134,7 +134,7 @@ function LanguagesSection() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-14">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            16 languages. One platform.
+            17 languages. One platform.
           </h2>
           <p className="text-gray-600 dark:text-slate-400 max-w-xl mx-auto">
             We build for the languages that represent hundreds of millions of speakers but zero attention from mainstream platforms.

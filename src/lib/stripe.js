@@ -34,7 +34,7 @@ export const PLANS = {
     period: 'per month',
     description: 'Deep cultural immersion across all languages.',
     features: [
-      'All 16 languages',
+      'All 17 languages',
       'Everything in Learner',
       'Cultural history modules',
       'Advanced AI scenario library',

@@ -6,7 +6,7 @@
 export const mandarinProverbs = [
   {
     id: 1,
-    mandarin: "A lǎo huà huáng, niú bù tīng",
+    mandarin: "Ā lǎo huà huáng, niú bù tīng",
     english: "A horse is old, yellow; a cow does not listen",
     literal: "An old horse becomes yellow; a cow pays no heed",
     context:
@@ -39,7 +39,7 @@ export const mandarinProverbs = [
   },
   {
     id: 4,
-    mandarin: "Chá píng rú kè, kè zhī cháy yùn",
+    mandarin: "Chá píng rú kè, kè zhī chá yùn",
     english: "Tea level like guests, guests know tea's cloud-fate",
     literal: "Tea vessels like guests, guests perceive tea destiny",
     context:

@@ -17,7 +17,7 @@ export const mandarinScenarios = [
     starterPrompt:
       "服务员推着点心车过来: 'Nǐ xiǎng yào shénme? Wǒ tuī guò lái le.' (The server pushes the cart over: 'What would you like? I brought the cart over.')",
     keyPhrases: [
-      "wǒ xiǎng yào xiǎ long bāo",
+      "wǒ xiǎng yào xiǎ lóng bāo",
       "zhè ge shì shén me",
       "duō shao qián",
     ],

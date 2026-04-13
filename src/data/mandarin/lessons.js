@@ -24,7 +24,7 @@ export const mandarinLessons = [
       {
         mandarin: "nǐ hǎo",
         english: "hello (casual)",
-        note: "Most common greeting; tone: ni (3rd) hao (3rd)",
+        note: "Most common greeting; neutral tone",
       },
       {
         mandarin: "nín hǎo",
@@ -80,7 +80,7 @@ export const mandarinLessons = [
       {
         mandarin: "chá",
         english: "tea",
-        note: "Central to Chinese culture; tone: cha (2nd tone)",
+        note: "Central to Chinese culture; 2nd tone",
       },
       {
         mandarin: "diǎn xin",
@@ -124,7 +124,7 @@ export const mandarinLessons = [
     ],
     vocabulary: [
       {
-        mandarin: "yī (1st), èr (4th), sān (1st)",
+        mandarin: "yī, èr, sān",
         english: "one, two, three",
         note: "Tone accuracy critical; yi has tone sandhi rules",
       },

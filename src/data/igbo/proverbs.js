@@ -1,7 +1,7 @@
 export const igboProverbs = [
   {
     id: 1,
-    igbo: "Ilu na-agụ agụ onye ọkụ",
+    igbo: "Ilụ na-agụ agụ onye ọkụ",
     english: "A proverb is like palm wine that a fire person drinks",
     literal: "Proverbs are like palm wine that someone on fire drinks",
     context: "This proverb celebrates the power of wise words to bring comfort and insight, especially to those facing hardship. In Igbo culture, palm wine is precious and symbolic of hospitality and celebration. When someone is struggling ('on fire' with difficulty), the wisdom of a proverb offers relief and understanding.",
@@ -21,7 +21,7 @@ export const igboProverbs = [
   },
   {
     id: 3,
-    igbo: "Ka o jiri aka ọzọ ese ihe, ka o ji aka ọzọ mụta ya",
+    igbo: "Ka o jiri aka ọzọ ese ị̣he, ka o jị aka ọzọ mụta ya",
     english: "With one hand you scratch a sore, with the other you learn patience",
     literal: "With one hand one scratches an itch, with the other one learns restraint",
     context: "A proverb about balance and the duality of human experience. In Igbo culture, it teaches that life requires managing multiple, sometimes conflicting needs simultaneously. It's often cited when advising someone facing competing demands or difficult choices.",
@@ -31,7 +31,7 @@ export const igboProverbs = [
   },
   {
     id: 4,
-    igbo: "Onye anya anya ka jiri eme ihe nzute",
+    igbo: "Onye anya anya ka jịrị eme ị̣he nzụte",
     english: "A stubborn person accomplishes a lot of hard labor",
     literal: "The one with fixed determination does difficult work",
     context: "This proverb honors perseverance and determination in Igbo values. It recognizes that achieving important goals requires sustained effort and commitment. Often used to encourage someone facing a long or difficult task, or to praise someone who demonstrates remarkable determination.",
@@ -41,7 +41,7 @@ export const igboProverbs = [
   },
   {
     id: 5,
-    igbo: "Ụmụ ọnụ n'ọnụ ha na-eti onwe ha",
+    igbo: "Ụmụ ọnụ n'ọnụ ha na-etị onwe ha",
     english: "Siblings who meet together do not hit each other",
     literal: "Children of the same mouth do not fight with each other",
     context: "A proverb about family solidarity and cooperation. 'Ụmụ ọnụ' (siblings) reminds the community that blood ties create bonds of mutual support and protection. This reflects the Igbo emphasis on familial loyalty and the danger of internal conflict weakening the family unit.",
